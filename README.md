@@ -20,7 +20,7 @@
 
   | Project | Description |
   |---------|-------------|
-  | [opentelemetry-collector-contrib](https://github.com/Klarsen04/opentelemetry-collector-contrib) | Contributions to the OpenTelemetryCollector |
+  | [opentelemetry-collector-contrib](https://github.com/Klarsen04/opentelemetry-collector-contrib) | Contributions to the OpenTelemetry|
   | [book2audio](https://github.com/Klarsen04/book2audio) | Convert books (PDF, EPUB, DOCX, TXT) to audiobooks using Amazon Polly |
 
   ## Let's connect
