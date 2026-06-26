@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0D1117&fontColor=FF9900&text=%3E_%20KIRSTY%20LARSEN&fontSize=40&desc=SDE+Intern+%40+AWS+%7C+Observability+and+Performance&descColor=E6EDF3&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&fontColor=FF9900&text=KIRSTY%20LARSEN&fontSize=44&height=200&desc=SDE%20Intern%20%40%20AWS%20%7C%20Observability%20and%20Performance&descColor=E6EDF3&descSize=18&animation=fadeIn" />
 </div>
 
 <div align="center">
@@ -287,5 +287,5 @@ open_to:
 </div>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0D1117&fontColor=FF9900&height=80&section=footer&text=Thanks+for+visiting!&fontSize=20&descColor=E6EDF3" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&fontColor=FF9900&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=22&descColor=E6EDF3" />
 </div>
