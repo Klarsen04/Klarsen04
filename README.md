@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0D1117&fontColor=FF9900&text=%3E_%20KIRSTY%20LARSEN&fontSize=40&desc=SDE+Intern+%40+AWS+%7C+Observability+%26+Performance&descColor=E6EDF3&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0D1117&fontColor=FF9900&text=%3E_%20KIRSTY%20LARSEN&fontSize=40&desc=SDE+Intern+%40+AWS+%7C+Observability+and+Performance&descColor=E6EDF3&animation=fadeIn" />
 </div>
 
 <div align="center">
